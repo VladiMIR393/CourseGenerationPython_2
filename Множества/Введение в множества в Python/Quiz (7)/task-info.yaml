@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: ъъъ
+- text: я
+- text: ⎵
+- text: ю
+- text: ююю
+- text: яяя
+- text: э
+- text: эээ
+- text: ъ
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Unchecked
+record: -1
+custom_name: Quiz

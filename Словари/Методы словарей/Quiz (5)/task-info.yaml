@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: пятница
+- text: 2
+- text: 1
+- text: произойдет ошибка
+- text: понедельник
+- text: вторник
+- text: среда
+- text: Не найдено
+- text: 3
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Unchecked
+record: -1
+custom_name: Quiz
